@@ -406,6 +406,9 @@ li {
     text-align: center;
     margin-left: 0;
   }
+  .bar {
+    background-color: transparent;
+  }
 
   .about {
     /* padding-right: 10px;
